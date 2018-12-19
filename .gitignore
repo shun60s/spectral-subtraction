@@ -1,0 +1,10 @@
+/__pycache__/
+/wav_whole/
+/old/
+*.txt
+*.bat
+*.sh
+*.pyc
+*.md~
+*.py~
+*.*~
