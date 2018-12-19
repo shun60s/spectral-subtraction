@@ -11,6 +11,9 @@ It's an indian mantra. It consists of human voice and background noise.
 In order to make the souce sound soften to hear, appy noise reduction method by spectral subtraction.  
 
 The figure below is a comparison the source waveform and noise reduced waveform by this spectral subtraction.  
+  
+  
+  
 ![sample1](docs/noise_reduction.png)  
 
 In the samples folder, there are used wav files and noise reduced output wav file.  
