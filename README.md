@@ -2,7 +2,7 @@
 
 This is a simple python code of spectral subtraction. No advanced one.  
 
-[github repository](https://github.com/shun60s/spectral-substraction)  
+[github repository](https://github.com/shun60s/spectral-subtraction)  
 
 ## Purpose
 
