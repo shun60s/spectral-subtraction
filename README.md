@@ -8,7 +8,7 @@ This is a simple python code of spectral subtraction. No advanced one.
 
 There was old, a low quality analog recording source (4KHz sampling, mono) which includes noise to strike ears.  
 It's an indian mantra. It consists of human voice and background noise.  
-In order to make the souce sound soften to hear, appy noise reduction method by spectral subtraction.  
+In order to make the souce sound soften to hear, apply noise reduction method by spectral subtraction.  
 
 The figure below is a comparison the source waveform and noise reduced waveform by this spectral subtraction.  
   
